@@ -1,0 +1,27 @@
+body{
+    background: #e2e3e5;
+}
+
+.container-xxl{
+    background: #f8f9fa;
+}
+
+
+.validar {
+    display: none;
+    margin: 0;
+    font-size: 15px;
+    padding: none;
+    text-align: center;
+    color: red;
+}
+
+
+#dolarpic{
+    background-image: url(/img/dolares1.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
